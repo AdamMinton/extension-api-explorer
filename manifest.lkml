@@ -1,7 +1,7 @@
 project_name: "api-explorer"
 
 application: api-explorer {
-  label: "API Explorer"
+  label: "API Explorer 2"
   file: "bundle.js"
 
   entitlements: {
@@ -20,6 +20,6 @@ application: api-explorer {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "ldeploy_the_look"
   export: override_optional
 }
